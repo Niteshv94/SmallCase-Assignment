@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-04T14:48:50Z" name="Default suite" finished-at="2021-06-04T14:49:13Z" duration-ms="23388">
+    <groups>
+    </groups>
+    <test started-at="2021-06-04T14:48:50Z" name="Default test" finished-at="2021-06-04T14:49:13Z" duration-ms="23388">
+      <class name="com.Flipkart.Testcases.VerifyLaunchHomePageFlipkart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Flipkart.Testcases.VerifyLaunchHomePageFlipkart@618425b5]" started-at="2021-06-04T20:18:50Z" name="setUp" finished-at="2021-06-04T20:19:07Z" duration-ms="17188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToFlipkart()[pri:1, instance:com.Flipkart.Testcases.VerifyLaunchHomePageFlipkart@618425b5]" started-at="2021-06-04T20:19:07Z" name="navigateToFlipkart" finished-at="2021-06-04T20:19:09Z" duration-ms="1870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToFlipkart -->
+        <test-method signature="clickOnItemAndPrintPrice()[pri:2, instance:com.Flipkart.Testcases.VerifyLaunchHomePageFlipkart@618425b5]" started-at="2021-06-04T20:19:09Z" name="clickOnItemAndPrintPrice" finished-at="2021-06-04T20:19:13Z" duration-ms="4210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnItemAndPrintPrice -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.Flipkart.Testcases.VerifyLaunchHomePageFlipkart@618425b5]" started-at="2021-06-04T20:19:13Z" name="closeSetup" finished-at="2021-06-04T20:19:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+      </class> <!-- com.Flipkart.Testcases.VerifyLaunchHomePageFlipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
